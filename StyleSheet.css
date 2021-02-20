@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+
+.Main {
+	width: 100vw;
+	height: 100vh;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline;
+	margin-left: 10px;
+}
+
+a {
+  color : black;
+}
