@@ -29,6 +29,8 @@ a {
 	background: black;
 	color: white;
 	position: relative;
+	
+	font-size: 3vw;
 }
 
 #MainImage {
@@ -39,4 +41,26 @@ a {
 	position: absolute;
 	top: 50%;
 	left: 50%;
+}
+
+#page1 {
+	text-align: left;
+}
+
+#page2{
+	text-align: right;
+}
+
+#page3{
+	text-align: left;
+}
+
+#pageAbout {
+	text-align: center;
+}
+
+.GridContainner {
+	display: grid;
+	
+	grid-template-rows: repeat(3, minmax(100px, auto));;
 }
