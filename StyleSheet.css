@@ -1,0 +1,29 @@
+#Banner {
+	position: fixed;
+	top: 0;
+	left: 0;
+	
+	width: 100vw;
+	height: 10vh;
+	
+	background: #25274D;
+}
+
+#Banner > ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#Banner > ul li {
+	float: left;
+	padding: 1vw;
+}
+
+#Banner > ul li a {
+	text-decoration: none;
+	
+	color: #FFFFFF;
+	
+	font-size: 2vh;
+}
