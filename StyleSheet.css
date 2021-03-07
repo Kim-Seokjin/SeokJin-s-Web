@@ -4,6 +4,19 @@ body {
 	padding: 0;
 }
 
+main {
+	color: #FFFFFF;
+	background: #1F2833;
+	padding-bottom: 0;
+}
+
+footer {
+	color: #FFFFFF;
+	background: #0B0C10;
+	padding-top: 0;
+	margin: 0;
+}
+
 #Banner {
 	position: fixed;
 	top: 0;
@@ -48,16 +61,3 @@ body {
 	text-justify: center;
 }
 
-#About {
-	color: #FFFFFF;
-	background: #1F2833;
-}
-
-#Skills {	
-	color: #45A29E;
-	background: #1F2833;
-}
-
-#Skills > ul li {
-	color: #FFFFFF;
-}
