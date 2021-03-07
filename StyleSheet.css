@@ -12,7 +12,7 @@ body {
 	width: 100vw;
 	height: 10vh;
 	
-	background: #25274D;
+	background: #0B0C10;
 }
 
 #Banner > ul {
@@ -29,7 +29,7 @@ body {
 #Banner > ul li a {
 	text-decoration: none;
 	
-	color: #AAABB8;
+	color: #FFFFFF;
 	
 	font-size: 2vh;
 }
@@ -39,5 +39,10 @@ body {
 	height: 100vh;
 	
 	color: #FFFFFF;
-	background: #25274D;
+	background: #0B0C10;
+}
+
+#MainText {
+	text-align: center;
+	text-justify: center;
 }
