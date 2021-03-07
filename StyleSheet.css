@@ -40,9 +40,24 @@ body {
 	
 	color: #FFFFFF;
 	background: #0B0C10;
+	
 }
 
 #MainText {
 	text-align: center;
 	text-justify: center;
+}
+
+#About {
+	color: #FFFFFF;
+	background: #1F2833;
+}
+
+#Skills {	
+	color: #45A29E;
+	background: #1F2833;
+}
+
+#Skills > ul li {
+	color: #FFFFFF;
 }
